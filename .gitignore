@@ -1,0 +1,6 @@
+# Ignore all Cargo build output
+**/target/
+
+# Ignore backup files
+*.rs.bk
+*Cargo.lock
